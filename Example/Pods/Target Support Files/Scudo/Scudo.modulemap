@@ -1,0 +1,6 @@
+framework module Scudo {
+  umbrella header "Scudo-umbrella.h"
+
+  export *
+  module * { export * }
+}
